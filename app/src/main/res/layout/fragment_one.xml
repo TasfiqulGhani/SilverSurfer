@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="15dp"
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt1"
+                    android:textColor="#0F5160"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Safety Precautions for Beach Lovers of All Ages"
+                    android:textStyle="bold"
+                    android:textSize="22sp"
+                    />
+
+                <TextView
+                    android:id="@+id/txt2"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Learn to swim before heading to the beach: It saves lives. If your kids aren’t strong swimmers or are just learning how to swim, make sure they stay close to shore.
+Sunscreen, sunscreen, sunscreen! Reapply often, and use broad-spectrum lotion that protects against both UVA and UVB rays. Young children require a higher SPF sunscreen than adults because their skin is actually thinner and more susceptible to UV rays. According to Safe Travel, a U.K.–based Web site, children can get burned in less than 10 minutes of sun exposure. Apply lotion 15 to 30 minutes before heading outside for optimal absorption. Other sun-protective measures: wear a hat and sunglasses.
+Actively supervise your children at all times: According to the Aquatic Safety Research Group (ASRG), “the number-one problem at beaches is lost children.” ASRG suggests families create a ‘beach plan’: “Know where you entered the beach, where you will place your blanket, and where you will meet if and when you become separated.”
+Only swim where a lifeguard is present: The United States Lifesaving Association says that swimming near a lifeguard lowers your chance of drowning to 1 in 18 million.
+Never swim alone—even if you’re a strong swimmer.
+Don’t dive head first into the ocean. Murky, sandy water can obscure underwater obstacles in the shallows. Protect your neck by always entering the ocean feet first.
+Avoid alcohol: It not only inhibits judgment, it accelerates dehydration, too.
+Stay hydrated: Drink plenty of water regularly.
+Obey all hazard flags and directions from lifeguards: See Safety Flags image for flag meanings."
+                    android:textColor="#0F5160"
+                    android:textSize="18sp"
+                    />
+
+
+    </LinearLayout>
+
+</ScrollView>

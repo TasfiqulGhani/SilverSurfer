@@ -1,0 +1,29 @@
+<android.support.v7.widget.Toolbar
+    style="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:minHeight="@dimen/abc_action_bar_default_height_material">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:contentDescription="logo"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/topicon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    Soberkaru"
+        android:textColor="@color/TitleText"
+        style="bold"
+        android:layout_gravity="center"
+        android:id="@+id/textView3"
+
+        android:layout_marginRight="0dp"
+        android:layout_marginLeft="10dp" />
+
+</android.support.v7.widget.Toolbar>

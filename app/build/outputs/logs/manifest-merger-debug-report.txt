@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:10:5-103:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.buddybear.NewsFeedFirstPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:17:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:24:27-74
+receiver#com.buddybear.AlarmReciver
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:27:19-47
+receiver#com.buddybear.TodoAlarm
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:28:9-47
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:28:19-44
+activity#com.buddybear.GamePartFirstPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:29:9-33:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:31:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:30:13-46
+activity#com.buddybear.GamePartSecondPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:34:9-38:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:36:13-73
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:35:13-47
+activity#com.buddybear.GamePartThirdPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:39:9-43:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:41:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:40:13-46
+activity#com.buddybear.TodoThirdPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:44:9-48:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:46:13-67
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:45:13-42
+activity#com.buddybear.TodoFirstPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:49:9-52:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:51:13-49
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:50:13-42
+activity#com.buddybear.NewsFeedSecondPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:53:9-57:59
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:55:13-73
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:54:13-47
+activity#com.buddybear.NewsFeedThirdPage
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:60:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:59:13-46
+activity#com.buddybear.setting_page
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:68:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:67:13-41
+activity#com.buddybear.page_setting_two
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:73:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:75:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:74:13-45
+activity#com.buddybear.page_setting_one
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:82:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:84:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:81:13-45
+activity#com.buddybear.page_setting_three
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:87:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:90:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:91:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:88:13-47
+activity#com.buddybear.programmist_activity
+ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:95:9-101:20
+	android:screenOrientation
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:97:13-49
+	android:label
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:98:13-72
+	android:theme
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:99:13-56
+	android:name
+		ADDED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml:96:13-49
+uses-sdk
+INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tasfiqul Ghani\Documents\BuddyBear\app\src\main\AndroidManifest.xml
